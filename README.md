@@ -1,2 +1,3 @@
-# wabbits
-Zabbix for web API's
+# Wabbits
+
+Monitor the state of all your web API's on your servers or nodes. Inspired by Zabbix.
